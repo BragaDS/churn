@@ -44,9 +44,3 @@ The final selected model is XGBoost, achieving the following metrics:
 
 - Further fine-tuning of hyperparameters and exploring feature engineering techniques could be considered for potential performance improvement.
 
-## How to Use
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
